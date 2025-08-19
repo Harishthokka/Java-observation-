@@ -1,6 +1,6 @@
 //program for array operations 
 import java.util.Arrays;
-class Array
+class Arrayoperations
 {
 	public static void main(String[] args)
 	{
